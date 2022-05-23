@@ -1,0 +1,40 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+D:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+D:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+D:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+D:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+D:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+D:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+D:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\bradl\Desktop\Final Image Processing\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
